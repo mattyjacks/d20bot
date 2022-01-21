@@ -14,4 +14,9 @@ https://colab.research.google.com/drive/1hGrOEtXVd90FZiUhuUF92c19iw2Mh14o?usp=sh
 
 We provide free AI assisted tools to create media, particularly of virtual tabletop role playing game (Dungeons & Dragons) Twitch streams. A great challenge in content production is making a short 10 minute YouTube video out of a 4 hour Twitch stream. We want to turn a 40 hour Twitch-to-Youtube video conversion and editing project into a 3 hour fun process of just clicking what the AI makes that you like.
 
+
+Here is our inspiration
+
+https://github.com/mattyjacks/d20bot/blob/1a3d5386797fba94162b828583a6957bf643dfbd/inspiration
+
 Contact Matt Jackson via WhatsApp @ +15106005735 to collaborate.
