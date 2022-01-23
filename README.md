@@ -1,3 +1,6 @@
+## Join the Skype Group
+https://join.skype.com/tsxvUU42h2fe
+
 # d20bot
 D20bot.com uses AI for automated media and a freelancer marketplace
 
