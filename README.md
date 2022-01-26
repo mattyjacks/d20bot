@@ -1,15 +1,17 @@
 ## Join the Skype Group
 https://join.skype.com/tsxvUU42h2fe
 
-# D20bot
+# *D20bot*
 D20bot.com uses AI for automated media and a freelancer marketplace
 
 https://www.d20bot.com/
 
-BeholderWeb v1.2 - Advanced Mode
+# D20bot BeholderWeb v1.2 - Advanced Mode
 https://colab.research.google.com/drive/1EryJlBYIDc6nidDdGg-wt1B7Wg2QxGBI?usp=sharing
+This is our work-in-progress codebase and interface.
 
-BeholderWeb v1.1 is our coolest tool so far, turning text prompts into images using Python + Big-Sleep. The images are strangely birdlike because our AI model is based on bird images. It's very easy to run because everyone likes happy tech.
+# D20bot BeholderWeb v1.1 - Simple Single Input
+Our coolest tool so far, turning text prompts into images using Python + Big-Sleep. The images are strangely birdlike because our AI model is based on bird images. It's very easy to run because everyone likes happy tech.
 
 
 Here's the Google Colab for D20bot BeholderWeb v1.1
