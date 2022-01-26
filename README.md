@@ -3,11 +3,15 @@ https://join.skype.com/tsxvUU42h2fe
 
 # *D20bot*
 
-![Big Silly Bird Rolling a 20 sided Dice](https://github.com/mattyjacks/d20bot/blob/bb59efe504cc5685bf10a6041253be225ae2a1c8/d20bot%20image%20for%20training%20repeated%202%20scaled%20down.png?raw=true)
-
 D20bot.com uses AI for automated media and a freelancer marketplace
 
 https://www.d20bot.com/
+
+## Example Output
+
+Below is a generated image based on the text prompt "big silly bird rolling a 20 sided dice".
+![Big Silly Bird Rolling a 20 sided Dice](https://github.com/mattyjacks/d20bot/blob/bb59efe504cc5685bf10a6041253be225ae2a1c8/d20bot%20image%20for%20training%20repeated%202%20scaled%20down.png?raw=true)
+
 
 ## D20bot BeholderWeb v1.2 - Advanced Mode
 https://colab.research.google.com/drive/1EryJlBYIDc6nidDdGg-wt1B7Wg2QxGBI?usp=sharing
