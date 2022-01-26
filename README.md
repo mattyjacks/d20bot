@@ -3,7 +3,7 @@ https://join.skype.com/tsxvUU42h2fe
 
 # *D20bot*
 
-![Big Silly Bird Rolling a 20 sided Dice](https://github.com/mattyjacks/d20bot/blob/main/d20bot%20image%20for%20training%20repeated%202.png?raw=true)
+![Big Silly Bird Rolling a 20 sided Dice](https://github.com/mattyjacks/d20bot/blob/bb59efe504cc5685bf10a6041253be225ae2a1c8/d20bot%20image%20for%20training%20repeated%202%20scaled%20down.png?raw=true)
 
 D20bot.com uses AI for automated media and a freelancer marketplace
 
