@@ -42,7 +42,7 @@ https://docs.google.com/spreadsheets/d/10Rq7yJL6xkRA6P5H94TKswkR2wj3JUcyrOhRKPEn
 
 Here's an implementation of the OpenAI CLIP model that I want to use with images scraped from Google or somewhere else.
 https://colab.research.google.com/drive/1yQ323nnjxlLTJqRYGb2-NzQRp2anVd7a?usp=sharing
-
+https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2
 
 Here is our inspiration
 
