@@ -7,6 +7,14 @@ D20bot.com uses AI for automated media and a freelancer marketplace
 
 https://www.d20bot.com/
 
+
+## D20bot BeholderWeb v1.3
+Most recent version, we're switching to using Python Deep-Daze
+
+https://drive.google.com/file/d/1Gpg_DkkPdCEQXKsZ0m8Z3OJikA5aOjPn/view?usp=sharing
+
+
+
 ## Example Output
 
 Below is a generated image based on the text prompt "big silly bird rolling a 20 sided dice".
